@@ -1,0 +1,25 @@
+{
+  "title": "Myshop | clothes",
+  "titleTemplate": "%s - Myshop Storefront",
+  "description": "Myshop - https://tarikum3.github.io/tarikum3/ ",
+  "openGraph": {
+    "title": "Myshop | clothes",
+    "description": "Myshop - https://tarikum3.github.io/tarikum3/",
+    "type": "website",
+    "url": "https://tarikum3.github.io/tarikum3/ ",
+    "site_name": "Myshop",
+    "images": [
+      {
+        "url": "/card.png",
+        "width": "800",
+        "height": "600",
+        "alt": "Myshop"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@nextjs",
+    "site": "@nextjs",
+    "cardType": "summary_large_image"
+  }
+}
